@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper{
+    /* border: blue solid ; */
+    background-color: rgba(0, 0, 255, 0.6);
+    height: 50px;
+}
+
+.i fa{
+    font-size: 1px;
+}
+
+.pls{
+    /* background: blue; */
+    /* border: solid black; */
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    /* padding-left: 10px; */
+}
+
+.so{
+    padding-right: 500px;
+}
+
+h1{
+    padding: 20px;
+    float: left;
+}
+
+.button{
+    padding: 10px;
+   
+}
+
+.contact{
+    margin-right: 600px;
+    padding-left: 50px;
+    font-family: ;
+}
+
+.iconf{
+    /* border: solid black; */
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease-out;
+    line-height: 55px;
+    font-size: 25px;
+}
+
+.icont{
+    /* border: solid black; */
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease-out;
+    line-height: 55px;
+    font-size: 25px;
+}
+
+.iconi{
+    /* border: solid black; */
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease-out;
+    line-height: 55px;
+    font-size: 25px;
+}
+
+.icony{
+    /* border: solid black; */
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin: 0 5px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease-out;
+    line-height: 55px;
+    font-size: 25px;
+}
+
+.iconf:hover{
+    /* margin: 10px; */
+    /* width: 190px; */
+}
+
+:hover.iconf{background: #4267b2;}
+
+:hover.icont{background: #1da1f2;}
+
+:hover.iconi{background: #e1306c;}
+
+:hover.icony{background: #ff0000;}
+
+.icont:hover{
+    /* margin: 10px; */
+    /* padding-right: 50px; */
+    /* width: 190px; */
+}
+
+.iconi:hover{
+    /* margin: 10px; */
+    /* padding-right: 50px; */
+    /* width: 190px; */
+}
+
+.icony:hover{
+    /* margin: 10px; */
+    /* border: solid black; */
+    /* width: 190px; */
+}
+
+
+
+/* .wrapper.button.iconf{
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    line-height: 60px;
+    transition: all 0.3 ease-out;
+} */
+
+
+/* .wrapper.button:nth-child(1)
+:hover.iconf{background: #4267b2;}
+
+.wrapper.button:nth-child(2)
+:hover.icont{background: #1da1f2;}
+
+.wrapper.button:nth-child(3)
+:hover.iconi{background: #e1306c;}
+
+.wrapper.button:nth-child(4)
+:hover.icony{background: #ff0000;}
+
+.wrapper.utton.iconf i{
+    font-size: 25px;
+    line-height: 60px;
+    transition: all 0.3 ease-out; 
+} */
+
+
+
